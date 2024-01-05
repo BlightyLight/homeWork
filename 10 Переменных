@@ -1,0 +1,31 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Linq;
+using System.Runtime.InteropServices.ComTypes;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CSLight
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int playerMoney;
+            uint itemPrice;
+            long itemQuantity;
+            ulong numberOfStars;
+            short soldTickets;
+            ushort seatNumber;
+
+            double virusPercentage;
+
+            char currencySymbol;
+
+            string characterName;
+
+            bool doorOpen;
+        }
+    }
+}
